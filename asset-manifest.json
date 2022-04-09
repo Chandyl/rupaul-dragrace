@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rupaul-dragrace/static/css/main.54e33860.css",
-    "main.js": "/rupaul-dragrace/static/js/main.eabe99a3.js",
-    "static/media/spinner.gif": "/rupaul-dragrace/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
-    "static/media/bg.jpg": "/rupaul-dragrace/static/media/bg.085908ea8f76e1ae1806.jpg",
-    "static/media/logo.png": "/rupaul-dragrace/static/media/logo.eaab0fb5b259084ff8b0.png",
-    "index.html": "/rupaul-dragrace/index.html",
-    "main.54e33860.css.map": "/rupaul-dragrace/static/css/main.54e33860.css.map",
-    "main.eabe99a3.js.map": "/rupaul-dragrace/static/js/main.eabe99a3.js.map"
+    "main.css": "/rupaul-dragraced/static/css/main.fd1fc66c.css",
+    "main.js": "/rupaul-dragraced/static/js/main.2ba2aa55.js",
+    "static/media/spinner.gif": "/rupaul-dragraced/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/rupaul-dragraced/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/rupaul-dragraced/static/media/logo.eaab0fb5b259084ff8b0.png",
+    "index.html": "/rupaul-dragraced/index.html",
+    "main.fd1fc66c.css.map": "/rupaul-dragraced/static/css/main.fd1fc66c.css.map",
+    "main.2ba2aa55.js.map": "/rupaul-dragraced/static/js/main.2ba2aa55.js.map"
   },
   "entrypoints": [
-    "static/css/main.54e33860.css",
-    "static/js/main.eabe99a3.js"
+    "static/css/main.fd1fc66c.css",
+    "static/js/main.2ba2aa55.js"
   ]
 }
